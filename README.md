@@ -1,2 +1,3 @@
 # proj1
-derp
+Work in progress
+Mental capacity: 15%.
